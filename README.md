@@ -6,11 +6,19 @@ I'll be adding things on to this project in the future for my own convinience an
 
 ## todo
 rocha
+
 move mocha options to ops file
+
 add pageobjects & inheritance
+
 stryker
+
 visual comparison tool
+
 hook up reporter
+
 hook up sauce 
+
 create scripts in package to override test from command line (good for ci)
+
 label functions?
