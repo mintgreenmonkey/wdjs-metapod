@@ -10,7 +10,7 @@ describe('https://the-internet.herokuapp.com/', function() {
         driver = await new Builder().forBrowser('chrome').build();
     });
 
-    after(async function() {
+    afterEach(async function() {
         await driver.quit();
     });
 
