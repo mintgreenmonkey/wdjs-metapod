@@ -1,10 +1,10 @@
-## wdjs-metapod
+# wdjs-metapod
 
 This is a basic experiment with WebdriverJS and right now it uses async/await.
 
 I'll be adding things on to this project in the future for my own convinience and explaining how they work so feel free to grab a copy for yourself.
 
-# todo
+## todo
 rocha
 move mocha options to ops file
 add pageobjects & inheritance
